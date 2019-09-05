@@ -2,32 +2,32 @@ const INITIAL_STATE = {
 sections: [
   {
   title: 'hats',
-  imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+  imageUrl: 'https://ik.imagekit.io/zvynnhdsd9/pexels-photo-2146723-min_iSiB0RaLq.png',
   id: 1,
   linkUrl: 'shop/hats'
 },
 {
   title: 'jackets',
-  imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+  imageUrl: 'https://ik.imagekit.io/zvynnhdsd9/amanda-vick-zw_oaDbfzyE-unsplash_-dpl71rfe.png',
   id: 2,
   linkUrl: 'shop/jackets'
 },
 {
   title: 'sneakers',
-  imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+  imageUrl: 'https://ik.imagekit.io/zvynnhdsd9/pexels-photo-1027130-min_hGb35HdVa.png',
   id: 3,
   linkUrl: 'shop/sneakers'
 },
 {
   title: 'womens',
-  imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+  imageUrl: 'https://ik.imagekit.io/zvynnhdsd9/pexels-photo-2473952-min_gEeE3doKX.png',
   size: 'large',
   id: 4,
   linkUrl: 'shop/womens'
 },
 {
   title: 'mens',
-  imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+  imageUrl: 'https://ik.imagekit.io/zvynnhdsd9/pexels-photo-842811-min_Mbel9m3rC.png',
   size: 'large',
   id: 5,
   linkUrl: 'shop/mens'
